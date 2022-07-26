@@ -116,7 +116,7 @@ app.controller("myAppController", function ($scope, $window) {
 		}, {
 			name: 'instagram',
 			class: 'bx bxl-instagram',
-			href: 'https://www.instagram.com/'
+			href: 'https://www.instagram.com/amansaxena106?igshid=YmMyTA2M2Y='
 		}, {
 			name: 'linkedin',
 			class: 'bx bxl-linkedin',
