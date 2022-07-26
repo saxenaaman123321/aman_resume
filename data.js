@@ -124,7 +124,7 @@ app.controller("myAppController", function ($scope, $window) {
 		}, {
 			name: 'github',
 			class: 'bx bxl-github',
-			href: 'https://github.com/aman-saxena'
+			href: 'https://github.com/saxenaaman123321'
 		}, {
 			name: 'facebook',
 			class: 'bx bxl-facebook',
